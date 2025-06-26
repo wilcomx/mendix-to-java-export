@@ -3,5 +3,6 @@ node_modules/
 typings/
 project-export/
 *.js
+package-lock.json
 
 
