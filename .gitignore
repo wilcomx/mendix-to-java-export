@@ -1,5 +1,7 @@
+.vscode/
 node_modules/
 typings/
+project-export/
 *.js
-project-export/.idea/
-project-export/demo-java-export.iml
+
+
